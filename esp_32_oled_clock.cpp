@@ -26,7 +26,7 @@ const int daylightOffset_sec = 0;
 #define PIN_BATTERY A0
 
 // OpenWeatherMap API
-const char* OPENWEATHER_API_KEY = "YOUR_API_KEY";
+const char* OPENWEATHER_API_KEY = "d2386720d2ad0a3823385ec99bd27598"; // Nhập API
 const char* weather_url = "http://api.openweathermap.org/data/2.5/weather?lat=10.847&lon=106.769&units=metric&appid=";
 String weatherMain = "";
 
